@@ -1,0 +1,25 @@
+
+.header {
+    align-items: start;
+}
+
+.book-slot-btn {
+    width: 30%;
+    padding-top: 10px;
+}
+
+.nav-head {
+
+    height: 70px;
+    width: 100%;
+    background-color: rgb(1, 1, 39);
+}
+
+.heading {
+    margin-top: 10px;
+    margin-left: 10px;
+    color: white;
+    size: 40px;
+    font-size: large;
+    font-size: 25px;
+}
